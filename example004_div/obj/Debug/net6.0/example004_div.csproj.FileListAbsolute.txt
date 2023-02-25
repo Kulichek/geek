@@ -1,0 +1,15 @@
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\bin\Debug\net6.0\example004_div.exe
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\bin\Debug\net6.0\example004_div.deps.json
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\bin\Debug\net6.0\example004_div.runtimeconfig.json
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\bin\Debug\net6.0\example004_div.dll
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\bin\Debug\net6.0\example004_div.pdb
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\obj\Debug\net6.0\example004_div.csproj.AssemblyReference.cache
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\obj\Debug\net6.0\example004_div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\obj\Debug\net6.0\example004_div.AssemblyInfoInputs.cache
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\obj\Debug\net6.0\example004_div.AssemblyInfo.cs
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\obj\Debug\net6.0\example004_div.csproj.CoreCompileInputs.cache
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\obj\Debug\net6.0\example004_div.dll
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\obj\Debug\net6.0\refint\example004_div.dll
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\obj\Debug\net6.0\example004_div.pdb
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\obj\Debug\net6.0\example004_div.genruntimeconfig.cache
+C:\Users\kulic\Desktop\EXAMPLES\example004_div\obj\Debug\net6.0\ref\example004_div.dll
