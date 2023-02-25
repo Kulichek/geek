@@ -1,5 +1,5 @@
-﻿int numberA = 31;
-int numberB = 5;
+﻿double numberA =  12;
+double numberB = 7;
 int result = numberA + numberB;
  Console.WriteLine(result);
 
