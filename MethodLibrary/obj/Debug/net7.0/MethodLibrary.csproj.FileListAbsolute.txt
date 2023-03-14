@@ -1,0 +1,15 @@
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\bin\Debug\net7.0\MethodLibrary.exe
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\bin\Debug\net7.0\MethodLibrary.deps.json
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\bin\Debug\net7.0\MethodLibrary.runtimeconfig.json
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\bin\Debug\net7.0\MethodLibrary.dll
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\bin\Debug\net7.0\MethodLibrary.pdb
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\obj\Debug\net7.0\MethodLibrary.csproj.AssemblyReference.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\obj\Debug\net7.0\MethodLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\obj\Debug\net7.0\MethodLibrary.AssemblyInfoInputs.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\obj\Debug\net7.0\MethodLibrary.AssemblyInfo.cs
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\obj\Debug\net7.0\MethodLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\obj\Debug\net7.0\MethodLibrary.dll
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\obj\Debug\net7.0\refint\MethodLibrary.dll
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\obj\Debug\net7.0\MethodLibrary.pdb
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\obj\Debug\net7.0\MethodLibrary.genruntimeconfig.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethodLibrary\obj\Debug\net7.0\ref\MethodLibrary.dll
