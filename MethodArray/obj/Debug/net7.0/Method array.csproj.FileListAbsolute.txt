@@ -1,0 +1,15 @@
+C:\Users\kulic\Desktop\EXAMPLES\Method array\bin\Debug\net7.0\Method array.exe
+C:\Users\kulic\Desktop\EXAMPLES\Method array\bin\Debug\net7.0\Method array.deps.json
+C:\Users\kulic\Desktop\EXAMPLES\Method array\bin\Debug\net7.0\Method array.runtimeconfig.json
+C:\Users\kulic\Desktop\EXAMPLES\Method array\bin\Debug\net7.0\Method array.dll
+C:\Users\kulic\Desktop\EXAMPLES\Method array\bin\Debug\net7.0\Method array.pdb
+C:\Users\kulic\Desktop\EXAMPLES\Method array\obj\Debug\net7.0\Method array.csproj.AssemblyReference.cache
+C:\Users\kulic\Desktop\EXAMPLES\Method array\obj\Debug\net7.0\Method array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulic\Desktop\EXAMPLES\Method array\obj\Debug\net7.0\Method array.AssemblyInfoInputs.cache
+C:\Users\kulic\Desktop\EXAMPLES\Method array\obj\Debug\net7.0\Method array.AssemblyInfo.cs
+C:\Users\kulic\Desktop\EXAMPLES\Method array\obj\Debug\net7.0\Method array.csproj.CoreCompileInputs.cache
+C:\Users\kulic\Desktop\EXAMPLES\Method array\obj\Debug\net7.0\Method array.dll
+C:\Users\kulic\Desktop\EXAMPLES\Method array\obj\Debug\net7.0\refint\Method array.dll
+C:\Users\kulic\Desktop\EXAMPLES\Method array\obj\Debug\net7.0\Method array.pdb
+C:\Users\kulic\Desktop\EXAMPLES\Method array\obj\Debug\net7.0\Method array.genruntimeconfig.cache
+C:\Users\kulic\Desktop\EXAMPLES\Method array\obj\Debug\net7.0\ref\Method array.dll
