@@ -1,0 +1,15 @@
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\obj\Debug\net7.0\MethodFor.csproj.AssemblyReference.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\obj\Debug\net7.0\MethodFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\obj\Debug\net7.0\MethodFor.AssemblyInfoInputs.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\obj\Debug\net7.0\MethodFor.AssemblyInfo.cs
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\obj\Debug\net7.0\MethodFor.csproj.CoreCompileInputs.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\bin\Debug\net7.0\MethodFor.exe
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\bin\Debug\net7.0\MethodFor.deps.json
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\bin\Debug\net7.0\MethodFor.runtimeconfig.json
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\bin\Debug\net7.0\MethodFor.dll
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\bin\Debug\net7.0\MethodFor.pdb
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\obj\Debug\net7.0\MethodFor.dll
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\obj\Debug\net7.0\refint\MethodFor.dll
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\obj\Debug\net7.0\MethodFor.pdb
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\obj\Debug\net7.0\MethodFor.genruntimeconfig.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethodFor\obj\Debug\net7.0\ref\MethodFor.dll
