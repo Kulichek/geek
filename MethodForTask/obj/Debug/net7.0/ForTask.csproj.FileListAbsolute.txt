@@ -1,0 +1,15 @@
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\obj\Debug\net7.0\ForTask.csproj.AssemblyReference.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\obj\Debug\net7.0\ForTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\obj\Debug\net7.0\ForTask.AssemblyInfoInputs.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\obj\Debug\net7.0\ForTask.AssemblyInfo.cs
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\obj\Debug\net7.0\ForTask.csproj.CoreCompileInputs.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\bin\Debug\net7.0\ForTask.exe
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\bin\Debug\net7.0\ForTask.deps.json
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\bin\Debug\net7.0\ForTask.runtimeconfig.json
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\bin\Debug\net7.0\ForTask.dll
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\bin\Debug\net7.0\ForTask.pdb
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\obj\Debug\net7.0\ForTask.dll
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\obj\Debug\net7.0\refint\ForTask.dll
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\obj\Debug\net7.0\ForTask.pdb
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\obj\Debug\net7.0\ForTask.genruntimeconfig.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethodForTask\obj\Debug\net7.0\ref\ForTask.dll
