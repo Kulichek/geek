@@ -1,0 +1,15 @@
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\obj\Debug\net7.0\MethotMaxMin.csproj.AssemblyReference.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\obj\Debug\net7.0\MethotMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\obj\Debug\net7.0\MethotMaxMin.AssemblyInfoInputs.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\obj\Debug\net7.0\MethotMaxMin.AssemblyInfo.cs
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\obj\Debug\net7.0\MethotMaxMin.csproj.CoreCompileInputs.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\bin\Debug\net7.0\MethotMaxMin.exe
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\bin\Debug\net7.0\MethotMaxMin.deps.json
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\bin\Debug\net7.0\MethotMaxMin.runtimeconfig.json
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\bin\Debug\net7.0\MethotMaxMin.dll
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\bin\Debug\net7.0\MethotMaxMin.pdb
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\obj\Debug\net7.0\MethotMaxMin.dll
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\obj\Debug\net7.0\refint\MethotMaxMin.dll
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\obj\Debug\net7.0\MethotMaxMin.pdb
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\obj\Debug\net7.0\MethotMaxMin.genruntimeconfig.cache
+C:\Users\kulic\Desktop\EXAMPLES\MethotMaxMin\obj\Debug\net7.0\ref\MethotMaxMin.dll
